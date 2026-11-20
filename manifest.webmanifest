@@ -1,0 +1,23 @@
+{
+ "name": "星図ステージ",
+ "short_name": "星図ステージ",
+ "lang": "ja",
+ "id": "./",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "theme_color": "#10111e",
+ "background_color": "#10111e",
+ "icons": [
+  {
+   "src": "./icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "./icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
