@@ -1,5 +1,5 @@
 const prefix = 'seizu-stage:' + self.registration.scope + ':';
-const version = prefix + '27b673777662';
+const version = prefix + 'r4-00c9bef51918';
 const files = [
  "art/aoi_debut.webp",
  "art/aoi_encore.webp",
